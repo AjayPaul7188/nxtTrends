@@ -62,7 +62,7 @@ class App extends Component {
   }
 
   addCartItem = product => {
-    //   TODO: Update the code here to implement addCartItem
+    //   TODO: Update the code here to implement addCartItems
     const {id} = product
     const {cartList} = this.state
 
